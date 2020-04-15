@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
-	adb "github.com/yosemite-open/go-adb"
-	"github.com/yosemite-open/go-adb/internal/errors"
+	adb "github.com/len666/go-adb"
+	"github.com/len666/go-adb/internal/errors"
 )
 
 var (

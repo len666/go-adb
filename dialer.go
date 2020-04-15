@@ -5,8 +5,8 @@ import (
 	"net"
 	"runtime"
 
-	"github.com/yosemite-open/go-adb/internal/errors"
-	"github.com/yosemite-open/go-adb/wire"
+	"github.com/len666/go-adb/internal/errors"
+	"github.com/len666/go-adb/wire"
 )
 
 // Dialer knows how to create connections to an adb server.

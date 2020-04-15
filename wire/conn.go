@@ -1,6 +1,6 @@
 package wire
 
-import "github.com/yosemite-open/go-adb/internal/errors"
+import "github.com/len666/go-adb/internal/errors"
 
 const (
 	// The official implementation of adb imposes an undocumented 255-byte limit

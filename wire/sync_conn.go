@@ -1,6 +1,6 @@
 package wire
 
-import "github.com/yosemite-open/go-adb/internal/errors"
+import "github.com/len666/go-adb/internal/errors"
 
 const (
 	// Chunks cannot be longer than 64k.

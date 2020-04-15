@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yosemite-open/go-adb/internal/errors"
+	"github.com/len666/go-adb/internal/errors"
 )
 
 func TestAdbServerError_NoRequest(t *testing.T) {
